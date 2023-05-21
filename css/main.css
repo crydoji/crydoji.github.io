@@ -2495,7 +2495,7 @@ body {
   -ms-background-size: cover;
 }
 .content-wrap {
-  opacity: 0.7;
+  opacity: 0.5;
 }
 .sidebar {
   opacity: 0.9;
@@ -2505,4 +2505,8 @@ body {
 }
 .popup {
   opacity: 0.9;
+}
+.main-inner {
+  background-color: rgba(255,255,255,0.7);
+  padding: 0px 40px 40px 40px;
 }
