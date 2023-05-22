@@ -184,7 +184,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif Simplified, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -197,7 +197,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif Simplified, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -984,7 +984,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif Simplified, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1419,7 +1419,7 @@ pre code {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: 800px;
+  width: 1100px;
 }
 @media (max-width: 767px) {
   .footer-inner {
@@ -1428,7 +1428,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 900px;
+    width: 1100px;
   }
 }
 @media (min-width: 1600px) {
@@ -1476,24 +1476,54 @@ pre code {
 }
 .back-to-top {
   font-size: 12px;
-  margin: 8px -10px -20px;
-  opacity: 0;
-  transition: opacity 0.2s ease-in-out;
+  align-items: center;
+  bottom: -100px;
+  color: #fff;
+  display: flex;
+  height: 26px;
+  transition: bottom 0.2s ease-in-out;
+  background: #222;
+  cursor: pointer;
+  opacity: 0.6;
+  position: fixed;
+  z-index: 30;
+  right: 30px;
 }
 .back-to-top span {
   margin-right: 8px;
-  display: none;
 }
 .back-to-top .fa {
   text-align: center;
   width: 26px;
 }
-.back-to-top.back-to-top-on {
-  cursor: pointer;
-  opacity: 0.6;
+@media (max-width: 991px) {
+  .back-to-top {
+    right: 20px;
+  }
 }
-.back-to-top.back-to-top-on:hover {
+.back-to-top:hover {
   opacity: 0.8;
+}
+@media (max-width: 991px) {
+  .back-to-top {
+    opacity: 0.8;
+  }
+}
+.back-to-top:hover {
+  color: #fc6423;
+}
+.back-to-top.back-to-top-on {
+  bottom: 30px;
+}
+.reading-progress-bar {
+  --progress: 0;
+  background: #37c6c0;
+  height: 3px;
+  position: fixed;
+  z-index: 50;
+  width: var(--progress);
+  left: 0;
+  top: 0;
 }
 .rtl.post-body p,
 .rtl.post-body a,
@@ -1633,7 +1663,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif Simplified, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1820,7 +1850,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif Simplified, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2175,7 +2205,7 @@ header.header {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  width: 800px;
+  width: 1100px;
 }
 @media (max-width: 767px) {
   .main {
@@ -2184,7 +2214,7 @@ header.header {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 900px;
+    width: 1100px;
   }
 }
 @media (min-width: 1600px) {
@@ -2381,13 +2411,6 @@ header.header {
 .links-of-author-item a:hover {
   background: var(--body-bg-color);
 }
-.back-to-top {
-  background: var(--body-bg-color);
-  margin: -4px -10px -18px;
-}
-.back-to-top.back-to-top-on {
-  margin-top: 16px;
-}
 .main-inner .sub-menu,
 .main-inner .post-block,
 .main-inner .tabs-comment,
@@ -2460,8 +2483,8 @@ header.header {
     padding: 10px;
   }
   .posts-expand .post {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
   .post-button {
     margin-top: 20px;
@@ -2500,6 +2523,7 @@ body {
   background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/1778622_origin_20230522_075439.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: 50% 50%;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
