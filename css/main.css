@@ -2484,10 +2484,9 @@ header.header {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/1778622_origin_20230522_075439.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -2501,7 +2500,7 @@ body {
   opacity: 0.9;
 }
 .header-inner {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.7);
 }
 .popup {
   opacity: 0.9;
@@ -2524,4 +2523,7 @@ body {
 .read-mode .layout_post>#post {
 /* 以下代表透明度为0.5 */
   background: rgba(255,255,255,0.5);
+}
+.post-block {
+  opacity: 0.5;
 }
