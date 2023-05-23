@@ -185,7 +185,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   font-family: Noto Serif Simplified Chinese, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -1826,7 +1826,7 @@ pre code {
   position: relative;
 }
 .posts-expand .post-title-link::before {
-  background: var(--link-color);
+  background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/s26392512.jpg");
   bottom: 0;
   content: '';
   height: 2px;
