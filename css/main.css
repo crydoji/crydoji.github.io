@@ -2565,7 +2565,7 @@ body {
   background: $lemonchiffon;
 }
 .sidebar-inner {
-  background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/sidebarbackground.jpg");
+  background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/sidebarok.png");
   opacity: 0.7;
   color: #ffd700;
   background-attachment: fixed;
@@ -2618,7 +2618,12 @@ body {
   padding: 1em 0;
   text-align: center;
   background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/sidebarimage.png");
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: 50% 50%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center right;
+}
+.menu-item a:hover,
+.menu-item a.menu-item-active {
+  background: rgba(50,76,111,0.129);
 }
