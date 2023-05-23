@@ -10,7 +10,7 @@
   --brand-hover-color: #fff;
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
-  --menu-item-bg-color: $gold;
+  --menu-item-bg-color: #f5f5f5;
   --theme-color: #222;
   --btn-default-bg: #fff;
   --btn-default-color: #555;
@@ -2573,7 +2573,7 @@ body {
   background-position: 50% 50%;
 }
 .headband {
-  height: 3px;
+  height: 1.8px;
   background: #fff8dc;
 }
 .site-meta {
@@ -2585,4 +2585,40 @@ body {
   margin-top: 10px;
   font-size: 13px;
   color: #000080;
+}
+.site-brand-container {
+  background: #fff8dc;
+}
+.brand {
+  border-bottom: 0;
+  color: #000;
+  display: inline-block;
+  padding: 0;
+}
+.site-description {
+  color: rgba(156,39,176,0.91);
+  font-size: 0.77em;
+  font-weight: bolder;
+  text-align: left;
+  font-style: italic;
+}
+.site-state-item-count {
+  display: block;
+  font-size: 1em;
+  font-weight: 600;
+  color: #1971b9;
+}
+.site-state-item-name {
+  color: #0a0a0a;
+  font-size: 0.8125em;
+  font-weight: 550;
+}
+.menu {
+  margin: 0;
+  padding: 1em 0;
+  text-align: center;
+  background: url("https://cdn.jsdelivr.net/gh/crydoji/pictutu/sidebarimage.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
 }
