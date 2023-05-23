@@ -2578,11 +2578,11 @@ body {
 }
 .site-meta {
   padding: 20px 0;
-  color: #fff8dc;
+  color: #000;
   background: #fff8dc;
 }
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
-  color: #fff8dc;
+  color: #000080;
 }
