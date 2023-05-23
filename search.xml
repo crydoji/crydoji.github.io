@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>life</title>
-    <url>/2023/05/14/life/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/05/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -31,12 +22,40 @@
       </categories>
   </entry>
   <entry>
+    <title>life</title>
+    <url>/2023/05/14/life/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>politics</title>
     <url>/2023/05/21/politics/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>杂想</category>
         <category>politics</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>森田童子的美学：物哀、挫败、死亡</title>
+    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
+    <content><![CDATA[<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
+
+<p><em>一篇关于Morita Doji的小文</em>。</p>
+<span id="more"></span>
+
+
+<blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
       </categories>
   </entry>
   <entry>
@@ -112,24 +131,5 @@
         <tag>现实主义</tag>
         <tag>女权</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>森田童子的美学：物哀、挫败、死亡</title>
-    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
-    <content><![CDATA[<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
-
-<p><em>一篇关于Morita Doji的小文</em>。</p>
-<span id="more"></span>
-
-
-<blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
   </entry>
 </search>
