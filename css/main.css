@@ -10,7 +10,7 @@
   --brand-hover-color: #fff;
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
-  --menu-item-bg-color: #f5f5f5;
+  --menu-item-bg-color: $gold;
   --theme-color: #222;
   --btn-default-bg: #fff;
   --btn-default-color: #555;
@@ -2571,4 +2571,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
+}
+.site-meta {
+  background: #fff8dc;
 }
