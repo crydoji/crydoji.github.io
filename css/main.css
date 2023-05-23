@@ -2572,6 +2572,17 @@ body {
   background-size: cover;
   background-position: 50% 50%;
 }
-.site-meta {
+.headband {
+  height: 3px;
   background: #fff8dc;
+}
+.site-meta {
+  padding: 20px 0;
+  color: #fff8dc;
+  background: #fff8dc;
+}
+.site-subtitle {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #fff8dc;
 }
