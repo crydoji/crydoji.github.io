@@ -2539,10 +2539,6 @@ body {
 .popup {
   opacity: 0.9;
 }
-.main-inner {
-  background-color: rgba(255,255,255,0.7);
-  padding: 0px 40px 40px 40px;
-}
 /* 文章页背景 */
 .layout_post>#post {
 /* 以下代表透明度为0.5 可以自行修改*/
@@ -2628,8 +2624,8 @@ body {
   background: rgba(50,76,111,0.129);
 }
 :root {
-  --body-bg-color: #991b1b;
-  --content-bg-color: rgba(255,255,255,0);
-  --card-bg-color: #f5f5f5;
-  --text-color: #fafafa;
+  --body-bg-color: #9f2424;
+  --content-bg-color: #1b1a03;
+  --card-bg-color: #a14c4c;
+  --text-color: #fff;
 }
