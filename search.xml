@@ -31,15 +31,6 @@
       </categories>
   </entry>
   <entry>
-    <title>politics</title>
-    <url>/2023/05/21/politics/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>politics</category>
-      </categories>
-  </entry>
-  <entry>
     <title>图床、格式适应网站</title>
     <url>/2023/05/20/%E5%9B%BE%E5%BA%8A%E3%80%81%E6%A0%BC%E5%BC%8F%E9%80%82%E5%BA%94%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<meta charset="UTF-8">
@@ -79,6 +70,15 @@
 ]]></content>
       <categories>
         <category>网络工具</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>politics</title>
+    <url>/2023/05/21/politics/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>politics</category>
       </categories>
   </entry>
   <entry>
