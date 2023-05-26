@@ -2629,3 +2629,16 @@ body {
   --card-bg-color: #a14c4c;
   --text-color: #fff;
 }
+.posts-expand .post-title-link {
+  border-bottom: 0;
+  color: #fff;
+  display: inline-block;
+  position: relative;
+}
+.posts-expand .post-meta-container {
+  color: #fff;
+}
+a {
+  border-bottom: 2px solid #e53935;
+  color: #fff59d;
+}
