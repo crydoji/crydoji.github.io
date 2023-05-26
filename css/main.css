@@ -2734,7 +2734,7 @@ body {
 :root {
   --body-bg-color: #9f2424;
   --content-bg-color: rgba(27,26,0,0.2);
-  --card-bg-color: #a14c4c;
+  --card-bg-color: rgba(38,50,56,0.6);
   --text-color: #fff;
 }
 .posts-expand .post-title-link {
@@ -2750,8 +2750,7 @@ a {
   border-bottom: 2px solid #e53935;
   color: #fff59d;
 }
-tag-cloud-0 {
+.tag-cloud-0 {
   border-bottom-color: #e53935;
   color: #fff8dc;
-  font-size: 16px;
 }

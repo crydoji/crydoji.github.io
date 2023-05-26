@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>life</title>
+    <url>/2023/05/14/life/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/05/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,24 +28,6 @@
 ]]></content>
       <categories>
         <category>网络工具</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>life</title>
-    <url>/2023/05/14/life/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>politics</title>
-    <url>/2023/05/21/politics/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>politics</category>
       </categories>
   </entry>
   <entry>
@@ -70,45 +61,12 @@
       </tags>
   </entry>
   <entry>
-    <title>图床、格式适应网站</title>
-    <url>/2023/05/20/%E5%9B%BE%E5%BA%8A%E3%80%81%E6%A0%BC%E5%BC%8F%E9%80%82%E5%BA%94%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
-
-
-
-<p><em>一些图床、githubtoken、与格式的存档</em>。</p>
-<span id="more"></span>
-
-<p> <strong>nsfw、politics图床</strong></p>
-<ul>
-<li><a href="https://wpic.cc/">https://wpic.cc</a> </li>
-<li><a href="https://www.imagevenue.com/">https://www.imagevenue.com</a> 🌏</li>
-<li><a href="https://upload.cc/">https://upload.cc</a> 🌏</li>
-<li><a href="https://photo.sibnet.ru/">老牌免费russia图床</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/347342082">github图床</a></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>pic[<code>lohn</code>]</th>
-<th align="center">token</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>crydoji&#x2F;pictutu</td>
-<td align="center">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</td>
-</tr>
-</tbody></table>
-<pre><code>适应手机屏幕和html普遍格式*-可用edge打开 ，开头复制这段：
-&lt;meta charset=&quot;UTF-8&quot;&gt;
-&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes&quot; /&gt;
-</code></pre>
-<hr>
-<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/1684481321911482064.jpg" alt="SuffieMassol"></p>
-]]></content>
+    <title>politics</title>
+    <url>/2023/05/21/politics/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>网络工具</category>
+        <category>杂想</category>
+        <category>politics</category>
       </categories>
   </entry>
   <entry>
@@ -142,25 +100,6 @@
         <tag>现实主义</tag>
         <tag>女权</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>森田童子的美学：物哀、挫败、死亡</title>
-    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
-    <content><![CDATA[<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
-
-<p><em>一篇关于Morita Doji的小文</em>。</p>
-<span id="more"></span>
-
-
-<blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
   </entry>
   <entry>
     <title>最近的一些电脑优化软件</title>
@@ -215,5 +154,66 @@
         <tag>软件</tag>
         <tag>办公</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>图床、格式适应网站</title>
+    <url>/2023/05/20/%E5%9B%BE%E5%BA%8A%E3%80%81%E6%A0%BC%E5%BC%8F%E9%80%82%E5%BA%94%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
+
+
+
+<p><em>一些图床、githubtoken、与格式的存档</em>。</p>
+<span id="more"></span>
+
+<p> <strong>nsfw、politics图床</strong></p>
+<ul>
+<li><a href="https://wpic.cc/">https://wpic.cc</a> </li>
+<li><a href="https://www.imagevenue.com/">https://www.imagevenue.com</a> 🌏</li>
+<li><a href="https://upload.cc/">https://upload.cc</a> 🌏</li>
+<li><a href="https://photo.sibnet.ru/">老牌免费russia图床</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/347342082">github图床</a></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>pic[<code>lohn</code>]</th>
+<th align="center">token</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>crydoji&#x2F;pictutu</td>
+<td align="center">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</td>
+</tr>
+</tbody></table>
+<pre><code>适应手机屏幕和html普遍格式*-可用edge打开 ，开头复制这段：
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes&quot; /&gt;
+</code></pre>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/1684481321911482064.jpg" alt="SuffieMassol"></p>
+]]></content>
+      <categories>
+        <category>网络工具</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>森田童子的美学：物哀、挫败、死亡</title>
+    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
+    <content><![CDATA[<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
+
+<p><em>一篇关于Morita Doji的小文</em>。</p>
+<span id="more"></span>
+
+
+<blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
+      </categories>
   </entry>
 </search>
