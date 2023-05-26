@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>life</title>
+    <url>/2023/05/14/life/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>《人鼠之间》书评</title>
+    <url>/2023/05/26/%E3%80%8A%E4%BA%BA%E9%BC%A0%E4%B9%8B%E9%97%B4%E3%80%8B%E4%B9%A6%E8%AF%84/</url>
+    <content><![CDATA[<p>事实上确实好读，但情节性似强非强，因此必定依赖直接粗浅的角色口语来补充已生成的幻灭主题。这样一来，整体的结构又变得混乱糟糕。莱尼的死给我带来的只是佳构剧般的平静，而不会给我带来<em>契诃夫式</em>的遐想。</p>
+]]></content>
+      <categories>
+        <category>书评</category>
+        <category>文学</category>
+      </categories>
+      <tags>
+        <tag>美国文学</tag>
+        <tag>短篇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/05/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -22,15 +45,6 @@
       </categories>
   </entry>
   <entry>
-    <title>life</title>
-    <url>/2023/05/14/life/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
-  </entry>
-  <entry>
     <title>politics</title>
     <url>/2023/05/21/politics/</url>
     <content><![CDATA[]]></content>
@@ -38,20 +52,6 @@
         <category>杂想</category>
         <category>politics</category>
       </categories>
-  </entry>
-  <entry>
-    <title>《人鼠之间》书评</title>
-    <url>/2023/05/26/%E3%80%8A%E4%BA%BA%E9%BC%A0%E4%B9%8B%E9%97%B4%E3%80%8B%E4%B9%A6%E8%AF%84/</url>
-    <content><![CDATA[<p>事实上确实好读，但情节性似强非强，因此必定依赖直接粗浅的角色口语来补充已生成的幻灭主题。这样一来，整体的结构又变得混乱糟糕。莱尼的死给我带来的只是佳构剧般的平静，而不会给我带来<em>契诃夫式</em>的遐想。</p>
-]]></content>
-      <categories>
-        <category>书评</category>
-        <category>文学</category>
-      </categories>
-      <tags>
-        <tag>美国文学</tag>
-        <tag>短篇</tag>
-      </tags>
   </entry>
   <entry>
     <title>一五六四夜游博物馆 目击六座维纳斯吞枪</title>
@@ -144,6 +144,25 @@
       </tags>
   </entry>
   <entry>
+    <title>森田童子的美学：物哀、挫败、死亡</title>
+    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
+    <content><![CDATA[<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
+
+<p><em>一篇关于Morita Doji的小文</em>。</p>
+<span id="more"></span>
+
+
+<blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>杂想</category>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
     <title>最近的一些电脑优化软件</title>
     <url>/2023/05/26/%E6%9C%80%E8%BF%91%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%B5%E8%84%91%E4%BC%98%E5%8C%96%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<p>解决文件和桌面窗口杂乱的问题</p>
@@ -196,24 +215,5 @@
         <tag>软件</tag>
         <tag>办公</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>森田童子的美学：物哀、挫败、死亡</title>
-    <url>/2023/05/20/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90%E7%9A%84%E7%BE%8E%E5%AD%A6%EF%BC%9A%E7%89%A9%E5%93%80%E3%80%81%E6%8C%AB%E8%B4%A5%E3%80%81%E6%AD%BB%E4%BA%A1/</url>
-    <content><![CDATA[<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /> 
-
-<p><em>一篇关于Morita Doji的小文</em>。</p>
-<span id="more"></span>
-
-
-<blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/crydoji/pictutu/%E6%A3%AE%E7%94%B0%E7%AB%A5%E5%AD%90.jpg" alt="森田童子">Morita Doji</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>杂想</category>
-        <category>life</category>
-      </categories>
   </entry>
 </search>
