@@ -2691,7 +2691,7 @@ body {
   color: #000080;
 }
 .site-brand-container {
-  background: rgba(255,248,220,0.8);
+  background: #fff8dc;
 }
 .brand {
   border-bottom: 0;
@@ -2753,4 +2753,7 @@ a {
 .tag-cloud-0 {
   border-bottom-color: #e53935;
   color: #fff8dc;
+}
+blockquote {
+  color: #1971b9;
 }
